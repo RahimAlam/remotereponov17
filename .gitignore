@@ -1,0 +1,8 @@
+
+*.log
+*.txt
+*.php
+*.class
+/di
+*.java
+filenew.java
